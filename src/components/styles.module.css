@@ -28,13 +28,12 @@
 .icon {
   color: #a9aaaa;
   size: 24px;
-  padding-right: 4px;
+  padding-right: 4px
 }
 
 .contactName, .contactNumber {
   width: 200px;
   font-size: 16px;
-  overflow: scroll;
 }
 
 .formList {
